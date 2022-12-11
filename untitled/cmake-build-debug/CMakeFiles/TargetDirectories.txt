@@ -1,0 +1,3 @@
+/Users/kanishksuri/C Prog/untitled/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/kanishksuri/C Prog/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kanishksuri/C Prog/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
