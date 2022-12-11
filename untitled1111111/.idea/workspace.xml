@@ -18,10 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36e132ea-da02-4125-9394-a05b3bcde07f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../looping calc/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-    </list>
+    <list default="true" id="36e132ea-da02-4125-9394-a05b3bcde07f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,7 @@
       <workItem from="1670751168093" duration="598000" />
       <workItem from="1670762565701" duration="7000" />
       <workItem from="1670767691969" duration="598000" />
-      <workItem from="1670770313329" duration="7000" />
+      <workItem from="1670770313329" duration="598000" />
     </task>
     <servers />
   </component>
