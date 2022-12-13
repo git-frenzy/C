@@ -1,0 +1,21 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang -G Ninja -S "/Users/kanishksuri/Development/C/looping calc" -B "/Users/kanishksuri/Development/C/looping calc/cmake-build-debug"
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/Platform/Darwin-Initialize.cmake:303 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake:21 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- The C compiler identification is AppleClang 14.0.0.14000029
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/clang - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kanishksuri/Development/C/looping calc/cmake-build-debug

@@ -19,6 +19,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0526da31-f6a9-4d25-ac84-43d6114790bd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/.cmake/api/v1/reply/cache-v2-2e88942f1f784120ca2b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-63ed209baab709f0e2e5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-180518732b055d2ca221.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-11T09-08-26-0440.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/.cmake/api/v1/reply/target-p2-Debug-dfec48e5589b5ddfd435.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dbfce95a100d333e817.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../looping calc/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../looping calc/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../looping calc/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../looping calc/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../looping calc/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../looping calc/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a81db8217c2602d8833e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-b69c75e4959d4c630d49.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6edc93f6dc86806f07e0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/.cmake/api/v1/reply/index-2022-12-11T09-31-10-0061.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/.cmake/api/v1/reply/target-untitled_folder-Debug-f400409e77b08e7dd094.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1dbfce95a100d333e817.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled folder/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled folder/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled folder/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1111111/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1111111/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -59,7 +82,8 @@
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,6 +104,10 @@
       <workItem from="1670762568888" duration="5000" />
       <workItem from="1670767695925" duration="598000" />
       <workItem from="1670770316005" duration="598000" />
+      <workItem from="1670822384038" duration="253000" />
+      <workItem from="1670822654176" duration="596000" />
+      <workItem from="1670958378412" duration="98000" />
+      <workItem from="1670958520867" duration="19000" />
     </task>
     <servers />
   </component>
